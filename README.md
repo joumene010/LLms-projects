@@ -4,25 +4,26 @@ This repository contains multiple projects showcasing the application of Languag
 
 ## Projects Overview
 
-### Project 1: Netflix Movie Recommendation Using Chroma and Sentence Transformers
+### Project 1: Question Answering with RAG LLMs
 
 **Description:**
-Implementing a movie recommendation system using Chroma for vector storage and Sentence Transformers for text embeddings. The system leverages Netflix TV shows and movies data to recommend similar content based on user queries.
+Building a question answering (QA) system using Retrieval-Augmented Generation (RAG) language models. The project integrates document retrieval to enhance answer accuracy, demonstrating proficiency in handling complex queries and providing informative responses based on retrieved knowledge sources.
 
-### Project 2: Q&A with PDF Documents Using FAISS and Mistral-7B-Instruct Model
-
-**Description:**
-Developing a question answering (QA) system for PDF documents using FAISS for efficient text retrieval and the Mistral-7B-Instruct model for generating answers. The system enables users to query PDF documents and receive accurate answers extracted from embedded content.
-
-### Project 3: News Summarization Using MiniLM and BitsAndBytes
+### Project 2: News Summarization Using MiniLM and BitsAndBytes
 
 **Description:**
 Implementing news article summarization using MiniLM embeddings and the BitsAndBytes configuration for quantization. The project focuses on preprocessing news data, generating concise summaries using MiniLM, and showcasing natural language processing capabilities.
 
-### Project 4: Question Answering with RAG LLMs
+### Project 3: Netflix Movie Recommendation Using Chroma and Sentence Transformers
 
 **Description:**
-Building a question answering (QA) system using Retrieval-Augmented Generation (RAG) language models. The project integrates document retrieval to enhance answer accuracy, demonstrating proficiency in handling complex queries and providing informative responses based on retrieved knowledge sources.
+Implementing a movie recommendation system using Chroma for vector storage and Sentence Transformers for text embeddings. The system leverages Netflix TV shows and movies data to recommend similar content based on user queries.
+
+### Project 4: Q&A with PDF Documents Using FAISS and Mistral-7B-Instruct Model
+
+**Description:**
+Developing a question answering (QA) system for PDF documents using FAISS for efficient text retrieval and the Mistral-7B-Instruct model for generating answers. The system enables users to query PDF documents and receive accurate answers extracted from embedded content.
+
 
 ## Installation and Usage
 
